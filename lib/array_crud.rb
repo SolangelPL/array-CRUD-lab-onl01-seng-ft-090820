@@ -15,7 +15,9 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  
+  ["David", "Selena", "Isaiah", "Leylani"]
+  "Leylani" = array.pop
+  puts array.inspect
 end
 
 def remove_element_from_start_of_array(array)
