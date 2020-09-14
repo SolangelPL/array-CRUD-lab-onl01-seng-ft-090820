@@ -32,5 +32,5 @@ end
 
 def retrieve_last_element_from_array(array)
   ("Selena" "Isaiah" "Leylani")
-  index[1] 
+  index [1] 
 end
