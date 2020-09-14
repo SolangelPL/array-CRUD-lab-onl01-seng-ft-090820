@@ -31,6 +31,6 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  ("Selena", "Isaiah", "Leylani")
+  ("Selena" "Isaiah" "Leylani")
   index - 1 
 end
